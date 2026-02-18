@@ -1,0 +1,40 @@
+{
+    "timestamp": "2026-02-18T16:30:45.224733",
+    "open_ports": [
+        {
+            "port": 139,
+            "pid": 4,
+            "user": "NT AUTHORITY\\SYSTEM",
+            "process": "System",
+            "status": "SUSPICIOUS"
+        },
+        {
+            "port": 4374,
+            "pid": 28864,
+            "user": "USTR\\307435",
+            "process": "Code.exe",
+            "status": "SUSPICIOUS"
+        },
+        {
+            "port": 445,
+            "pid": 4,
+            "user": "NT AUTHORITY\\SYSTEM",
+            "process": "System",
+            "status": "SUSPICIOUS"
+        },
+        {
+            "port": 42050,
+            "pid": 22924,
+            "user": "USTR\\307435",
+            "process": "OneDrive.Sync.Service.exe",
+            "status": "SUSPICIOUS"
+        },
+        {
+            "port": 445,
+            "pid": 4,
+            "user": "NT AUTHORITY\\SYSTEM",
+            "process": "System",
+            "status": "SUSPICIOUS"
+        }
+    ]
+}
